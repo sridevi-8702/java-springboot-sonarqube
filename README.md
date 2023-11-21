@@ -31,6 +31,7 @@ Before running the Job ensure the following code snippets are added to the pom.x
 
 1. To be added inside <dependencies> block-
 
+
 ```
 <!-- https://mvnrepository.com/artifact/org.sonarsource.scanner.maven/sonar-maven-plugin -->
 		<dependency>

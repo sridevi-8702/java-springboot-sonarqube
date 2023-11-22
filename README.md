@@ -8,14 +8,7 @@ Sample Java Springboot Project to Demonstrate Declarative CI/CD Pipeline in Jenk
 
 
 
-    " Jenkins Pipeline Auto Trigger "
     
-
-
-
-
-
-
 
 
 
